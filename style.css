@@ -1,0 +1,22 @@
+.heading1{
+    background-color:rgb(243, 239, 239);
+}
+body{
+    text-align: center;
+}
+.add{
+    background-color:rgb(134, 235, 166);
+    font-family: 'Courier New', Courier, monospace;
+}
+.resert{
+background-color:rgb(247, 124, 124);
+font-family: 'Courier New', Courier, monospace;
+}
+.incresmnt{
+    background-color:rgb(166, 166, 246);
+    font-family: 'Courier New', Courier, monospace;
+}
+.table{
+    background-color: rgb(63, 234, 239);
+    font-family: 'Courier New', Courier, monospace;
+}
